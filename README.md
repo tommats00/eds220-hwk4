@@ -1,7 +1,7 @@
 # Area burned in Santa Barbara and Ventura County from the 2017 Thomas Fire
 
 ## About:
-The purpose of this repositiory is to view the burned area of the 2017 Thomas Fire that affected Santa Barbara and Ventura County. The end goal of this repository is to demonstrate how to filter geospatial and rioxarray data and then combine them to form a single map. 
+The purpose of this repositiory is to view the burned area of the 2017 Thomas Fire that affected Santa Barbara and Ventura County. The end goal of this repository is to demonstrate how to filter geospatial and rioxarray data and then combine them to form a single map. A workflow was created to demonstrate how to properly read in and clean said data.  
 
 ![Thomas Fire 2017: Image from: Lieff Cabreser](https://www.lieffcabraser.com/wp-content/uploads/wildfire-slide-500.jpg)
 
@@ -21,7 +21,7 @@ eds220-hwk4
 ```        
 
 ## Data
-Landsat data was taken from the Bren School's Environmental Science & Management MEDS server. The California fire perimeters data was downloaded from [data.gov](https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436)
+Landsat data was taken from the Bren School's Environmental Science & Management MEDS server. The California fire perimeters data was downloaded from [Data.gov](https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436). 
 
 ## References
 Data.gov Data Catalogue, California Fire Perimeters (all). Available from: https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436. Access date: November 22, 2024.
