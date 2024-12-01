@@ -24,7 +24,7 @@ eds220-hwk4
 Landsat data was taken from the Bren School's Environmental Science & Management MEDS server. The California fire perimeters data was downloaded from [Data.gov](https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436). 
 
 ## References
-Material to complete this assignment was provided the course, [EDS220-Working with Environmental data sets](https://meds-eds-220.github.io/MEDS-eds-220-course/)
+Material to complete this assignment was provided by the course, [EDS220-Working with Environmental data sets](https://meds-eds-220.github.io/MEDS-eds-220-course/)
 
 Data.gov Data Catalogue, California Fire Perimeters (all). Available from: https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436. Access date: November 22, 2024.
 
